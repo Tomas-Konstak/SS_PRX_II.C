@@ -12,7 +12,7 @@ https://tomas-konstak.github.io/SS_PRX_II.C/03_tema/moja-stranka.html
 ## Ostatné pokusy
 [nejaky pokus](https://tomas-konstak.github.io/SS_PRX_II.C/04_tema/obrazky.html)
 
-[skusal som obrazky](https://tomas-konstak.github.io/SS_PRX_II.C/04_tema/mini-projekt.html)
+[skusal som obrazky](https://tomas-konstak.github.io/SS_PRX_II.C/04_tema/rohace.html)
 ## Čo som sa naučil
 
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
