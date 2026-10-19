@@ -9,7 +9,12 @@ PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 ## Živá stránka
 https://tomas-konstak.github.io/SS_PRX_II.C/03_tema/moja-stranka.html
 
+## Ostatné pokusy
+[nejaky pokus](https://tomas-konstak.github.io/SS_PRX_II.C/04_tema/obrazky.html)
+
+[skusal som obrazky](https://tomas-konstak.github.io/SS_PRX_II.C/04_tema/mini-projekt.html)
 ## Čo som sa naučil
+
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
 - význam <title>, charset="UTF-8" a lang="sk"
 - publikovanie stránky cez GitHub Pages
