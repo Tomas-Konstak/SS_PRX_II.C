@@ -14,7 +14,6 @@ https://tomas-konstak.github.io/SS_PRX_II.C/03_tema/moja-stranka.html
 
 [skusal som obrazky](https://tomas-konstak.github.io/SS_PRX_II.C/04_tema//rohace.html)
 ## Čo som sa naučil
+[moja stnka](https://tomas-konstak.github.io/SS_PRX_II.C/08_tema/Projekt_Sport.html)
 
-- základnú schému HTML dokumentu (DOCTYPE, html, head, body)
-- význam <title>, charset="UTF-8" a lang="sk"
-- publikovanie stránky cez GitHub Pages
+
